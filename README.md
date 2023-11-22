@@ -1,5 +1,5 @@
 
-# Language Machine
+# Language Machine - Ongoing project 
 
 Language Machine is an innovative web application and Raspberry Pi device designed to facilitate seamless language translation and communication. The project leverages FastAPI, React, Python, OpenAI's ChatGPT-4, ElevenLabs' Text-to-Voice AI, MongoDB, and Google Translate. It aims to revolutionize the way we interact with different languages.
 
